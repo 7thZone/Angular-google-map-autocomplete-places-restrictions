@@ -1,3 +1,10 @@
+#References
+
+To check Radius or Restriction only location [Check Radius](http://obeattie.github.io/gmaps-radius/?radiusInput=20&unitSelector=mi&lat=18.96876&lng=73.045981&z=9&u=mi&r=30)
+
+Refer this link for Documentation [Google Map Documentation](https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform)
+
+
 # Googlemap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
